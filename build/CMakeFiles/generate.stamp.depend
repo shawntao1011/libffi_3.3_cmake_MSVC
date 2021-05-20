@@ -1,0 +1,106 @@
+# CMake generation dependency list for this directory.
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeASMCompiler.cmake.in
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeASMInformation.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeASM_MASMInformation.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeCCompiler.cmake.in
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeCCompilerABI.c
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeCXXCompiler.cmake.in
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeCXXCompilerABI.cpp
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeCXXInformation.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeCompilerIdDetection.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineASMCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineASM_MASMCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineCCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineCXXCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineCompileFeatures.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineCompilerABI.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineCompilerId.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineRCCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeDetermineSystem.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeFindBinUtils.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeParseImplicitIncludeInfo.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeParseImplicitLinkInfo.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeRCCompiler.cmake.in
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeRCInformation.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeSystem.cmake.in
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeTestASMCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeTestASM_MASMCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeTestCXXCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeTestCompilerCommon.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CMakeTestRCCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/ADSP-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/ARMCC-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/ARMClang-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/AppleClang-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Borland-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Bruce-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Clang-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Clang-DetermineCompilerInternal.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Compaq-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Cray-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Embarcadero-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Fujitsu-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/GHS-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/GNU-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/HP-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/HP-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/IAR-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Intel-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/IntelClang-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/IntelDPCPP-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/MSVC-C.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/MSVC-CXX.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/MSVC-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/NVIDIA-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/PGI-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/PathScale-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/SCO-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/SDCC-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/SunPro-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/TI-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/Watcom-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/XL-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/XL-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/XLClang-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/zOS-C-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/CompilerId/VS-10.vcxproj.in
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Internal/FeatureTesting.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Platform/Windows-Determine-CXX.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-C.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Platform/Windows.cmake
+D:/visual studio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.19/Modules/Platform/WindowsPaths.cmake
+E:/libffi/libffi-3.3_cmake_version/CMakeLists.txt
+E:/libffi/libffi-3.3_cmake_version/build/CMakeFiles/3.19.20122902-MSVC_2/CMakeASM_MASMCompiler.cmake
+E:/libffi/libffi-3.3_cmake_version/build/CMakeFiles/3.19.20122902-MSVC_2/CMakeCCompiler.cmake
+E:/libffi/libffi-3.3_cmake_version/build/CMakeFiles/3.19.20122902-MSVC_2/CMakeCXXCompiler.cmake
+E:/libffi/libffi-3.3_cmake_version/build/CMakeFiles/3.19.20122902-MSVC_2/CMakeRCCompiler.cmake
+E:/libffi/libffi-3.3_cmake_version/build/CMakeFiles/3.19.20122902-MSVC_2/CMakeSystem.cmake
+E:/libffi/libffi-3.3_cmake_version/include/ffi.h.in
+E:/libffi/libffi-3.3_cmake_version/include/ffi_common.h
+E:/libffi/libffi-3.3_cmake_version/include/fficonfig.h.in
+E:/libffi/libffi-3.3_cmake_version/include/ffitarget.h
+E:/libffi/libffi-3.3_cmake_version/source/asm/win32.S
